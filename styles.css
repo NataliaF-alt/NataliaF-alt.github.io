@@ -1,8 +1,12 @@
 body {
 background: #FFFEBF;
 font-family: Arial, Helvetica, sans-serif;
+margin: 40px;
 }
 h1 {
 color: #614680;
 text-align: center;
+}
+h2 {
+    color: #555521;
 }
