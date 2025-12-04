@@ -11,7 +11,7 @@ h2 {
   color: #614680;
 }
 p {
-  color: #803357;
+  color: #c8bea7;
 }
 .projects {
   /* make the blobs float side-by-side */
@@ -52,5 +52,5 @@ p {
 }
 a { 
 	text-decoration: none;
-	color: rgb(3, 4, 94);
+	color: rgb(77, 80, 249);
 	}
